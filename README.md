@@ -1,5 +1,8 @@
 # async-arch
 https://miro.com/app/board/uXjVMwHEXKk=/
+
+1st week:
+
 Event storming:
 ![image](https://github.com/KhAA84/async-arch/assets/40232271/5d792951-b625-45c5-9753-8edb070e12c3)
 
